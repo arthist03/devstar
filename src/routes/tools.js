@@ -5,6 +5,12 @@ export let tools = {
         link: '/neumorphism-generator',
         description: "The Neumorphism Generator is a powerful tool designed for developers and designers to easily create neumorphic user interfaces. With this toolkit, you can effortlessly generate neumorphic design elements, such as buttons, cards, and input fields, by simply adjusting various parameters and styles. Enhance your applications with this intuitive tool and create visually stunning and modern user interfaces with ease."
     },
+    'speedpage': {
+        name: 'Speed-page',
+        icon: 'clock-desk',
+        link: '/speedpage',
+        description: "This is an awesome web page, where users can find the speed of the different website/pages on a click! Especially a motivating and an hands-on experience website for cybersecurity professionals too!! Moreover, very fast paced and perfect results web page!"
+    },
     'password-generator': {
         name: 'Password Generator',
         icon: 'key',
